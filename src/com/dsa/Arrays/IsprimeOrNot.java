@@ -1,5 +1,4 @@
-package com.dsa;
-import java.util.*;
+package com.dsa.Arrays;
 
 
 import java.util.Scanner;

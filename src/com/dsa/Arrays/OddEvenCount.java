@@ -1,5 +1,5 @@
-package com.dsa;
-
+package com.dsa.Arrays;
+// find how many Odd & Even no in array.
 public class OddEvenCount {
     public static void main(String[] args) {
         int[] Arr = {5, 12, 7, 8, 3, 10};

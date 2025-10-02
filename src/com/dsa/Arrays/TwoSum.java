@@ -1,4 +1,4 @@
-package com.dsa;
+package com.dsa.Arrays;
 
 public class TwoSum {
     public static int[] Target(int[] num, int target) {

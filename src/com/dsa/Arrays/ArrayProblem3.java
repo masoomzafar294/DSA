@@ -1,4 +1,4 @@
-package com.dsa;
+package com.dsa.Arrays;
 
 public class ArrayProblem3 {
     public static int MaxHeight(int[] height) {
